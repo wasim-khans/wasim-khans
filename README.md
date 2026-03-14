@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Wasim Khan Yousufzai (Call me Wasim/Khan)
+# 👋 Hi, I'm Muhammad Wasim Khan (Wasim)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Test+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Automation+Framework+Builder;Security+Testing+Enthusiast&center=true&width=550&height=45">
@@ -9,11 +9,10 @@ Software QA Automation Engineer focused on **automation frameworks, backend test
 I enjoy building reliable testing systems that help teams **ship quality software with confidence.**
 
 <p align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-wasimsqae.netlify.app-2d2d2d?style=flat-square)](https://wasimsqae.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mwasimkhan--sqae-2d2d2d?style=flat-square)](https://linkedin.com/in/mwasimkhan-sqae)
-
+<a href="https://wasimsqae.netlify.app">🌐 Portfolio</a> • 
+<a href="https://linkedin.com/in/mwasimkhan-sqae">💼 LinkedIn</a>
 </p>
+
 ---
 
 # 🛠 Tech Stack
@@ -32,28 +31,28 @@ I enjoy building reliable testing systems that help teams **ship quality softwar
 # 💼 Experience
 
 **Software Engineer QA — Motive (USA)**  
-Mar 2023 – Jan 2025  
-Automation, backend testing, performance validation, and production debugging.
+Mar 2023 – Jan 2025
 
 **QA Automation Engineer — E-Axon**  
-Sep 2022 – Mar 2023  
-Cypress E2E automation, API testing, regression pipelines.
+Sep 2022 – Mar 2023
 
 **Junior QA Engineer — MTBC / CareCloud**  
-Dec 2021 – Sep 2022  
-Testing healthcare platforms across Web, Android, and iOS.
+Dec 2021 – Sep 2022
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasim-khans&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-khans&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasim-khans&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-khans&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact
+Whatsapp
+https://wa.me/447869160099
 
 LinkedIn  
 https://linkedin.com/in/mwasimkhan-sqae
