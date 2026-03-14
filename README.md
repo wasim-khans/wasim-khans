@@ -11,7 +11,7 @@ I enjoy building reliable testing systems that help teams **ship quality softwar
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2d2d2d?style=flat-square)](https://wasimsqae.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2d2d2d?style=flat-square)](https://linkedin.com/in/mwasimkhan-sqae)
 
-
+---
 
 # 🛠 Tech Stack
 
