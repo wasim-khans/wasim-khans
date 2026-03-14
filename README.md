@@ -31,8 +31,6 @@ I enjoy:
 
 # 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
 ### Automation
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-2d2d2d?style=flat-square)
 ![Cypress](https://img.shields.io/badge/Cypress-E2E-2d2d2d?style=flat-square)
