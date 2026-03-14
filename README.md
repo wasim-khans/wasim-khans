@@ -35,9 +35,10 @@ Cypress
 Postman  
 
 ### Languages
+Python  
 JavaScript  
 TypeScript  
-Python  
+
 
 ### Tools
 DataDog  
@@ -110,16 +111,17 @@ Load testing scenarios to validate API performance, caching behavior, and system
 ---
 
 # 🎓 Education
-
-**MSc Software Engineering**  
-University of Hertfordshire (In Progress)
+**BS Computer Science**  
+University of Engineering & Technology, Peshawar (2916-2020)
+**MSc Web Development**  
+University of Roehampton, London (In Progress)
 
 Focus areas:
 
-• Software Architecture  
-• Scalable Systems  
-• Automation & DevOps  
-• Advanced Software Engineering Practices
+• Software Quality Assurance
+• Test Automation
+• Software Development
+
 
 ---
 
