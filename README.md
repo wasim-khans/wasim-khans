@@ -9,8 +9,8 @@ Software QA Automation Engineer focused on **automation frameworks, backend test
 I enjoy building reliable testing systems that help teams **ship quality software with confidence.**
 
 <p align="center">
-<a href="https://wasimsqae.netlify.app">🌐 Portfolio</a> • 
-<a href="https://linkedin.com/in/mwasimkhan-sqae">💼 LinkedIn</a>
+<a href="https://wasimsqae.netlify.app">Go to my Portfolio</a> • 
+<a href="https://linkedin.com/in/mwasimkhan-sqae">Go to my LinkedIn</a>
 </p>
 
 ---
