@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Wasim Khan
+# 👋 Hi, I'm Muhammad Wasim Khan Yousufzai (Call me Wasim/Khan)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Test+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Automation+Framework+Builder;Security+Testing+Enthusiast&center=true&width=550&height=45">
@@ -8,7 +8,8 @@ Software QA Automation Engineer focused on **automation frameworks, backend test
 
 I enjoy building reliable testing systems that help teams **ship quality software with confidence.**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2d2d2d?style=flat-square)](https://wasimsqae.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2d2d2d?style=flat-square)](https://linkedin.com/in/mwasimkhan-sqae)
 
 # 🛠 Tech Stack
 
