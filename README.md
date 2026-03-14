@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Wasim Khan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Security+Testing+Enthusiast;Automation+Framework+Builder&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Test+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Security+Testing+Enthusiast;Automation+Framework+Builder&center=true&width=550&height=45">
 </p>
 
 Software QA Automation Engineer focused on **automation frameworks, backend systems testing, and scalable testing pipelines**.
@@ -33,8 +33,8 @@ I enjoy:
 
 ### Automation
 
-![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
-![Cypress](https://img.shields.io/badge/Cypress-E2E-green)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-grey)
+![Cypress](https://img.shields.io/badge/Cypress-E2E-blue)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
 
 ### Languages
