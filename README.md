@@ -1,120 +1,164 @@
 # 👋 Hi, I'm Muhammad Wasim Khan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Security+Testing+Enthusiast;Bug+Hunter+%F0%9F%90%9B&center=true&width=500&height=45">
-</p>
+Software QA Automation Engineer | Playwright | Cypress | API Testing | Security Testing
+
+I specialize in building **automation frameworks, testing complex backend systems, and improving software reliability through scalable testing strategies.**
+
+My focus is not only on finding bugs, but also **designing systems that prevent them.**
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💻 Software QA Automation Engineer  
-🔍 Specialized in **UI, API, Backend & Performance Testing**  
-🔐 Passionate about **Security Testing & Automation Frameworks**
+QA Automation Engineer with experience in:
 
-I enjoy designing **scalable automation frameworks, debugging complex systems, and improving software quality through intelligent testing strategies.**
+• UI Testing  
+• API Testing  
+• Backend Testing  
+• Performance Testing  
+• Security Testing  
 
-Currently focused on:
+I enjoy working on:
 
-- Advanced **Playwright automation frameworks**
-- **TypeScript based testing**
-- **Security testing labs**
-- **AI-assisted QA workflows**
+• Automation frameworks  
+• debugging complex issues  
+• improving release pipelines  
+• testing distributed systems  
 
 ---
 
 # 🧰 Tech Stack
 
 ### Automation
-![Playwright](https://img.shields.io/badge/Playwright-Testing-green)
-![Cypress](https://img.shields.io/badge/Cypress-E2E-green)
-![Postman](https://img.shields.io/badge/Postman-API-orange)
+Playwright  
+Cypress  
+Postman  
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-
-### Testing
-- UI Testing
-- API Testing
-- Backend Testing
-- Performance Testing
-- Security Testing
+JavaScript  
+TypeScript  
+Python  
 
 ### Tools
-- DataDog
-- TrackJS
-- AWS S3
-- Redash
-- Pendo
-- StatSig
-- LambdaTest
-- SauceLabs
+DataDog  
+TrackJS  
+AWS S3  
+Redash  
+Pendo  
+StatSig  
+LambdaTest  
+SauceLabs  
 
-### Operating Systems
-- Linux (Kali, Ubuntu)
-- Windows
-- Android
-- iOS
+### Platforms
+Linux (Kali, Ubuntu)  
+Windows  
+Android  
+iOS  
+
+---
+
+# 🧪 QA Methodology
+
+My testing philosophy focuses on **preventing defects early in the development lifecycle.**
+
+### Testing Layers
+
+1. **Static Testing**
+   - Reviewing PRs
+   - Reviewing API contracts
+   - Reviewing technical design documents
+
+2. **Functional Testing**
+   - UI testing
+   - API testing
+   - Backend workflow testing
+
+3. **Automation**
+   - End-to-End automation
+   - Regression suites
+   - CI/CD integration
+
+4. **Performance Testing**
+   - Load testing
+   - Stress testing
+   - Caching validation
+   - Memory leak detection
+
+5. **Security Testing**
+   - SQL Injection
+   - Cross Site Scripting (XSS)
+   - IDOR
+   - Broken Authentication
+   - DoS testing
+
+---
+
+# 📂 Featured Projects
+
+### Playwright Automation Framework
+A scalable Playwright framework designed for E2E automation with reusable utilities, test data generation, and CI integration.
+
+### Cypress E2E Testing Framework
+Automated UI regression suite with API chaining, custom commands, and CI pipeline integration.
+
+### Security Testing Lab
+Hands-on vulnerability testing using DVWA, Metasploitable, OWASP ZAP, and Kali Linux.
+
+### Performance Testing with JMeter
+Load testing scenarios to validate API performance, caching behavior, and system scalability.
+
+---
+
+# 🎓 Education
+
+**MSc Software Engineering**  
+University of Hertfordshire (In Progress)
+
+Focus areas:
+
+• Software Architecture  
+• Scalable Systems  
+• Automation & DevOps  
+• Advanced Software Engineering Practices
+
+---
+
+# 📜 Certifications
+
+• ISTQB CTFL  
+• Playwright JS/TS Automation Testing Framework  
+• Cypress Modern Automation Testing Frameworks  
+• JMeter Performance & Load Testing  
+• NCCS Penetration Testing Workshop  
 
 ---
 
 # 🔐 Security Testing
 
-Experience with:
+Experience testing vulnerabilities such as:
 
-- SQL Injection
-- Cross Site Scripting (XSS)
-- IDOR
-- Broken Authentication
-- DoS testing
+SQL Injection  
+Cross Site Scripting (XSS)  
+Insecure Direct Object References (IDOR)  
+Broken Authentication  
+Denial of Service (DoS)
 
 Tools used:
 
-- Kali Linux
-- Nessus
-- OWASP ZAP
-- Nikto
-- DVWA
-- Metasploitable
+Kali Linux  
+Nessus  
+OWASP ZAP  
+Nikto  
+DVWA  
+Metasploitable
 
 ---
 
-# 📂 Projects
+# 📊 GitHub Stats
 
-### 🧪 Test Automation
-- Playwright Automation Framework
-- Cypress E2E Framework
-- API Automation using Postman
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasim-khans&show_icons=true&theme=tokyonight)
 
-### 🔐 Security Labs
-- DVWA Vulnerability Testing
-- Metasploitable Pentesting
-- OWASP ZAP Scanning
-
-### 📊 Performance Testing
-- JMeter Load Testing
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasim-khans&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-khans&layout=compact&theme=tokyonight">
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wasim-khans&theme=darkhub">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-khans&layout=compact&theme=tokyonight)
 
 ---
 
@@ -128,5 +172,6 @@ muhammadwasimkhan8@gmail.com
 
 ---
 
-⭐ Fun fact  
-I love hunting stubborn bugs 🐛 and designing automation pipelines that prevent release-day fires.
+⭐ Fun Fact
+
+I enjoy hunting stubborn bugs 🐛 and designing automation pipelines that help teams ship **quality code with confidence.**
