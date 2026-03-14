@@ -6,7 +6,7 @@
 
 Software QA Automation Engineer focused on **automation frameworks, backend systems testing, and scalable testing pipelines**.
 
-I believe QA is not just about finding bugs — it's about **designing systems that prevent them.**
+I believe QA is not just about finding bugs, it's about **designing systems that prevent them.**
 
 ---
 
@@ -63,7 +63,7 @@ I enjoy:
 
 ### Software Engineer QA  
 **Motive (USA)**  
-2023 — 2025
+2023, 2025
 
 • Automated UI testing using **Cypress**  
 • Built scripts for **test data generation** reducing manual testing effort  
@@ -81,7 +81,7 @@ Key projects:
 
 ### QA Automation Engineer  
 **E-Axon (Pakistan)**  
-2022 — 2023
+2022, 2023
 
 • Built **E2E automation using Cypress**  
 • Automated **Postman API collections**  
@@ -97,7 +97,7 @@ Projects:
 
 ### Junior QA Engineer  
 **MTBC / CareCloud**  
-2021 — 2022
+2021, 2022
 
 • QA for medical applications (EHR & PHR systems)  
 • Cross-platform testing (Web, Android, iOS)  
@@ -181,7 +181,7 @@ Kali Linux
 
 **BS Computer Science**  
 University of Engineering & Technology Peshawar  
-2016 — 2020
+2016, 2020
 
 **MSc Web Development**  
 University of Roehampton London  
