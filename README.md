@@ -31,35 +31,32 @@ I enjoy:
 
 # 🛠 Tech Stack
 
-### Automation
+# 🛠 Tech Stack
 
-![Playwright](https://img.shields.io/badge/Playwright-Automation-grey)
-![Cypress](https://img.shields.io/badge/Cypress-E2E-blue)
-![Postman](https://img.shields.io/badge/Postman-API-orange)
+### Automation
+![Playwright](https://img.shields.io/badge/Playwright-Automation-2d2d2d?style=flat-square)
+![Cypress](https://img.shields.io/badge/Cypress-E2E-2d2d2d?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-API-2d2d2d?style=flat-square)
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square)
 
 ### Tools
-
-![DataDog](https://img.shields.io/badge/DataDog-monitoring-purple)
-![AWS](https://img.shields.io/badge/AWS-S3-orange)
-![TrackJS](https://img.shields.io/badge/TrackJS-debugging-red)
-![Redash](https://img.shields.io/badge/Redash-analytics-blue)
-![Pendo](https://img.shields.io/badge/Pendo-product--analytics-green)
-![LambdaTest](https://img.shields.io/badge/LambdaTest-crossbrowser-blue)
-![SauceLabs](https://img.shields.io/badge/SauceLabs-testing-red)
+![Datadog](https://img.shields.io/badge/DataDog-Monitoring-2d2d2d?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-S3-2d2d2d?style=flat-square)
+![TrackJS](https://img.shields.io/badge/TrackJS-Debugging-2d2d2d?style=flat-square)
+![Redash](https://img.shields.io/badge/Redash-Analytics-2d2d2d?style=flat-square)
+![Pendo](https://img.shields.io/badge/Pendo-Product_Analytics-2d2d2d?style=flat-square)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-CrossBrowser-2d2d2d?style=flat-square)
+![SauceLabs](https://img.shields.io/badge/SauceLabs-Testing-2d2d2d?style=flat-square)
 
 ### Platforms
-
-![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-black)
-![Windows](https://img.shields.io/badge/Windows-blue)
-![Android](https://img.shields.io/badge/Android-green)
-![iOS](https://img.shields.io/badge/iOS-grey)
-
+![Linux](https://img.shields.io/badge/Linux-Kali_|_Ubuntu-2d2d2d?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-2d2d2d?style=flat-square)
+![Android](https://img.shields.io/badge/Android-2d2d2d?style=flat-square)
+![iOS](https://img.shields.io/badge/iOS-2d2d2d?style=flat-square)
 ---
 
 # 💼 Work Experience
