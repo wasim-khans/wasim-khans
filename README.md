@@ -26,12 +26,15 @@ I enjoy building reliable testing systems that help teams **ship quality softwar
 # 💼 Experience
 
 **Software Engineer QA — Motive (USA)**  
-Automation, backend testing, performance validation, production debugging.
+Mar 2023 – Jan 2025  
+Automation, backend testing, performance validation, and production debugging.
 
 **QA Automation Engineer — E-Axon**  
+Sep 2022 – Mar 2023  
 Cypress E2E automation, API testing, regression pipelines.
 
 **Junior QA Engineer — MTBC / CareCloud**  
+Dec 2021 – Sep 2022  
 Testing healthcare platforms across Web, Android, and iOS.
 
 ---
