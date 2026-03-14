@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Muhammad Wasim Khan
 
-Software QA Automation Engineer | Playwright | Cypress | API Testing | Security Testing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Security+Testing+Enthusiast;Automation+Framework+Builder&center=true&width=550&height=45">
+</p>
 
-I specialize in building **automation frameworks, testing complex backend systems, and improving software reliability through scalable testing strategies.**
+Software QA Automation Engineer focused on **automation frameworks, backend systems testing, and scalable testing pipelines**.
 
-My focus is not only on finding bugs, but also **designing systems that prevent them.**
+I believe QA is not just about finding bugs — it's about **designing systems that prevent them.**
 
 ---
 
 # 👨‍💻 About Me
 
-QA Automation Engineer with experience in:
+QA Automation Engineer experienced in:
 
 • UI Testing  
 • API Testing  
@@ -18,43 +20,91 @@ QA Automation Engineer with experience in:
 • Performance Testing  
 • Security Testing  
 
-I enjoy working on:
+I enjoy:
 
-• Automation frameworks  
-• debugging complex issues  
+• designing automation frameworks  
+• debugging complex backend issues  
 • improving release pipelines  
 • testing distributed systems  
 
 ---
 
-# 🧰 Tech Stack
+# 🛠 Tech Stack
 
 ### Automation
-Playwright  
-Cypress  
-Postman  
+
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
+![Cypress](https://img.shields.io/badge/Cypress-E2E-green)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
 
 ### Languages
-Python  
-JavaScript  
-TypeScript  
 
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 
 ### Tools
-DataDog  
-TrackJS  
-AWS S3  
-Redash  
-Pendo  
-StatSig  
-LambdaTest  
-SauceLabs  
+
+![DataDog](https://img.shields.io/badge/DataDog-monitoring-purple)
+![AWS](https://img.shields.io/badge/AWS-S3-orange)
+![TrackJS](https://img.shields.io/badge/TrackJS-debugging-red)
+![Redash](https://img.shields.io/badge/Redash-analytics-blue)
+![Pendo](https://img.shields.io/badge/Pendo-product--analytics-green)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-crossbrowser-blue)
+![SauceLabs](https://img.shields.io/badge/SauceLabs-testing-red)
 
 ### Platforms
-Linux (Kali, Ubuntu)  
-Windows  
-Android  
-iOS  
+
+![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-black)
+![Windows](https://img.shields.io/badge/Windows-blue)
+![Android](https://img.shields.io/badge/Android-green)
+![iOS](https://img.shields.io/badge/iOS-grey)
+
+---
+
+# 💼 Work Experience
+
+### Software Engineer QA  
+**Motive (USA)**  
+2023 — 2025
+
+• Automated UI testing using **Cypress**  
+• Built scripts for **test data generation** reducing manual testing effort  
+• Tested backend systems including **webhooks, queues, and async jobs**  
+• Investigated production issues using logs and monitoring tools  
+
+Key projects:
+
+• Payments & Spend Controls system  
+• Self-service card ordering system  
+• Marketing experimentation platform  
+• Transaction notification systems  
+
+---
+
+### QA Automation Engineer  
+**E-Axon (Pakistan)**  
+2022 — 2023
+
+• Built **E2E automation using Cypress**  
+• Automated **Postman API collections**  
+• Reduced manual API testing effort significantly  
+• Created regression and sanity testing pipelines  
+
+Projects:
+
+• Edge hiring platform  
+• Kunooz eCommerce platform  
+
+---
+
+### Junior QA Engineer  
+**MTBC / CareCloud**  
+2021 — 2022
+
+• QA for medical applications (EHR & PHR systems)  
+• Cross-platform testing (Web, Android, iOS)  
+• Data flow validation and API testing  
 
 ---
 
@@ -64,64 +114,87 @@ My testing philosophy focuses on **preventing defects early in the development l
 
 ### Testing Layers
 
-1. **Static Testing**
-   - Reviewing PRs
-   - Reviewing API contracts
-   - Reviewing technical design documents
+**Static Testing**
 
-2. **Functional Testing**
-   - UI testing
-   - API testing
-   - Backend workflow testing
+• PR reviews  
+• API contract reviews  
+• architecture review  
 
-3. **Automation**
-   - End-to-End automation
-   - Regression suites
-   - CI/CD integration
+**Functional Testing**
 
-4. **Performance Testing**
-   - Load testing
-   - Stress testing
-   - Caching validation
-   - Memory leak detection
+• UI testing  
+• API testing  
+• backend workflow testing  
 
-5. **Security Testing**
-   - SQL Injection
-   - Cross Site Scripting (XSS)
-   - IDOR
-   - Broken Authentication
-   - DoS testing
+**Automation**
+
+• End-to-End automation  
+• regression suites  
+• CI/CD pipeline integration  
+
+**Performance Testing**
+
+• load testing  
+• caching validation  
+• memory leak detection  
+
+**Security Testing**
+
+• SQL Injection  
+• XSS  
+• IDOR  
+• Broken Authentication  
 
 ---
 
 # 📂 Featured Projects
 
 ### Playwright Automation Framework
-A scalable Playwright framework designed for E2E automation with reusable utilities, test data generation, and CI integration.
 
-### Cypress E2E Testing Framework
-Automated UI regression suite with API chaining, custom commands, and CI pipeline integration.
+Scalable Playwright framework with:
+
+• reusable test utilities  
+• environment configuration  
+• CI integration  
+
+---
+
+### Cypress E2E Framework
+
+UI automation suite including:
+
+• API chaining  
+• custom commands  
+• regression pipelines  
+
+---
 
 ### Security Testing Lab
-Hands-on vulnerability testing using DVWA, Metasploitable, OWASP ZAP, and Kali Linux.
 
-### Performance Testing with JMeter
-Load testing scenarios to validate API performance, caching behavior, and system scalability.
+Hands-on vulnerability testing using:
+
+DVWA  
+Metasploitable  
+OWASP ZAP  
+Kali Linux  
 
 ---
 
 # 🎓 Education
+
 **BS Computer Science**  
-University of Engineering & Technology, Peshawar (2916-2020)
+University of Engineering & Technology Peshawar  
+2016 — 2020
+
 **MSc Web Development**  
-University of Roehampton, London (In Progress)
+University of Roehampton London  
+(In Progress)
 
 Focus areas:
 
-• Software Quality Assurance
-• Test Automation
-• Software Development
-
+• Software Quality Assurance  
+• Automation Testing  
+• Software Development  
 
 ---
 
@@ -129,30 +202,9 @@ Focus areas:
 
 • ISTQB CTFL  
 • Playwright JS/TS Automation Testing Framework  
-• Cypress Modern Automation Testing Frameworks  
-• JMeter Performance & Load Testing  
+• Cypress Modern Automation Testing  
+• JMeter Performance Testing  
 • NCCS Penetration Testing Workshop  
-
----
-
-# 🔐 Security Testing
-
-Experience testing vulnerabilities such as:
-
-SQL Injection  
-Cross Site Scripting (XSS)  
-Insecure Direct Object References (IDOR)  
-Broken Authentication  
-Denial of Service (DoS)
-
-Tools used:
-
-Kali Linux  
-Nessus  
-OWASP ZAP  
-Nikto  
-DVWA  
-Metasploitable
 
 ---
 
