@@ -24,16 +24,6 @@ Sep 2022 – Mar 2023
 **Junior QA Engineer — MTBC / CareCloud**  
 Dec 2021 – Sep 2022
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasim-khans&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-khans&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 # 📫 Contact
 Whatsapp
