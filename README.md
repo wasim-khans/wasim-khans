@@ -13,21 +13,6 @@ I enjoy building reliable testing systems that help teams **ship quality softwar
 <a href="https://linkedin.com/in/mwasimkhan-sqae">Go to my LinkedIn</a>
 </p>
 
----
-
-# 🛠 Tech Stack
-
-![Playwright](https://img.shields.io/badge/Playwright-2d2d2d?style=flat-square)
-![Cypress](https://img.shields.io/badge/Cypress-2d2d2d?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-2d2d2d?style=flat-square)
-![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-2d2d2d?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-2d2d2d?style=flat-square)
-
----
-
 # 💼 Experience
 
 **Software Engineer QA — Motive (USA)**  
