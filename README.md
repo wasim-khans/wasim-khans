@@ -13,7 +13,7 @@ I enjoy building reliable testing systems that help teams **ship quality softwar
 <a href="https://linkedin.com/in/mwasimkhan-sqae">Go to my LinkedIn</a>
 </p>
 
-# 💼 Experience
+# Experience
 
 **Software Engineer QA — Motive (USA)**  
 Mar 2023 – Jan 2025
@@ -25,7 +25,7 @@ Sep 2022 – Mar 2023
 Dec 2021 – Sep 2022
 
 
-# 📫 Contact
+# Contact
 Whatsapp
 https://wa.me/447869160099
 
